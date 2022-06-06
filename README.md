@@ -21,6 +21,16 @@ LifestylestoreIndia | Pluralsight | Unsplash | Online Shopping Application Using
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaydwankar3&theme=highcontrast&hide_border=true" alt="akshaydwankar3" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaydwankar3&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="akshaydwankar3" />  -->
 
+  ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaydwankar3&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshaydwankar3&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaydwankar3&layout=compact&theme=dark)](https://github.com/akshaydwankar3/github-readme-stats)
+
+
+
+
+
+
+
 
 <!-- - 📫 How to reach me ... -->
 
