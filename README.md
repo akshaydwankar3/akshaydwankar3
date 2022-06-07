@@ -13,7 +13,7 @@ JAVA | MYSQL | SPRING BOOT | JAVASCRIPT | HTML5 | CSS | C++ | C
 
 Interesting On My Project
 
-[![lifestylestoreindia](https://img.shields.io/badge/LifestylestoreIndia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-lifestylestoreindia.netlify.app/) | Pluralsight | Unsplash | Online Shopping Application Using Spring boot and Java
+[![Lifestylestoreindia](https://img.shields.io/badge/LifestylestoreIndia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-lifestylestoreindia.netlify.app/) | [![Pluralsight](https://img.shields.io/badge/Pluralsight-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | [![Unsplash](https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | Online Shopping Application Using Spring boot and Java
 
 #
 <p align="center">
