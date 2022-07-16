@@ -13,8 +13,7 @@ JAVA | MYSQL | SPRING BOOT | JAVASCRIPT | HTML5 | CSS | C++ | C
 
 Interesting On My Project
 
-[![Lifestylestoreindia](https://img.shields.io/badge/LifestylestoreIndia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-lifestylestoreindia.netlify.app/) | [![Pluralsight](https://img.shields.io/badge/Pluralsight-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | [![Unsplash](https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | [![ Online Shopping Application Using Spring boot and Java](https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/)
-
+[![Lifestylestoreindia](https://img.shields.io/badge/LifestylestoreIndia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-lifestylestoreindia.netlify.app/) | [![Pluralsight](https://img.shields.io/badge/Pluralsight-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | [![Unsplash](https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) |  Online Shopping Application Using Spring boot and Java
 #
 <p align="center">
 <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshaydwankar3&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="akshaydwankar3" />
